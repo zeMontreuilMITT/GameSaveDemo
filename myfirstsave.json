@@ -1,0 +1,22 @@
+{
+  "FilePath": "C:\\Users\\zacharie.montreuil\\source\\repos\\GameSave\\myfirstsave.json",
+  "GameSaves": [
+    {
+      "PlayerId": "zeMontreuil",
+      "SaveId": 1,
+      "DateCreated": "2022-03-25T09:56:36.4006877-05:00",
+      "CurrentLevel": 1,
+      "CostumesAvailable": null
+    },
+    {
+      "PlayerId": "Tuna the Cat",
+      "SaveId": 2,
+      "DateCreated": "2022-03-25T09:57:57.3897434-05:00",
+      "CurrentLevel": 9001,
+      "CostumesAvailable": [
+        "Tortoiseshell",
+        "Fishbreath"
+      ]
+    }
+  ]
+}
